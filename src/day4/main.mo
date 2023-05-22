@@ -1,4 +1,4 @@
-import Account "account";
+import Account "Account";
 import RemoteCanisterActor "remoteCanisterActor";
 import TrieMap "mo:base/TrieMap";
 import Trie "mo:base/Trie";
